@@ -1,0 +1,8 @@
+body {
+    /* lettertype */
+    font-family: arial;
+    /* achtergrondkleur */
+    background-color: greenyellow; 
+}
+h1{color: red;}
+img {max-width: 20%;}
